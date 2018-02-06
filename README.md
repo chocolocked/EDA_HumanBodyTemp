@@ -1,2 +1,2 @@
 # EDA_Projects
-Human Body Temperature, Racial Discrimination &amp; Hospital Readmissions Using EDA
+Human Body Temperature Using EDA
