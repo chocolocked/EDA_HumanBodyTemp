@@ -1,2 +1,2 @@
-# EDA_Projects
+# EDA_HumanBodyTemperature
 Human Body Temperature Using EDA
